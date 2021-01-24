@@ -18,9 +18,9 @@ int findX_Y(string A){
 
 
 int main(){
-    string A;
+    string x;
     cout << "Input X Y : ";
-    getline(cin,A);
-    cout<<findX_Y(A);
+    getline(cin,x);
+    cout<<findX_Y(x);
     return 0;
 }
