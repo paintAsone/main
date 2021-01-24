@@ -2,7 +2,7 @@
 using namespace std;
 
 int main(){
-    char x;
+    char x,a;
     cin>>x;
     switch(x){
         case 'A':
