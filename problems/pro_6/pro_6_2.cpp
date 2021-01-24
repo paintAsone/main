@@ -4,10 +4,10 @@ using namespace std;
 
 char findA(char A){
     if(A == 'A' || A == 'E' || A == 'I' || A == 'O' || A == 'U'){
-        return 'y';
+        return 'Y';
     }
     else{
-        return 'n';
+        return 'N';
     }
 }
 
